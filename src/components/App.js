@@ -1,7 +1,7 @@
 
 import React from "react";
 import './../styles/App.css';
-import Tabs from './Tabs'
+import Tabs from './Tabs.js'
 const App = () => {
   const tabs1 = [
     { title: 'Tab 1', content: 'Content for Tab 1' },
